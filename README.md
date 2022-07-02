@@ -43,6 +43,9 @@ b. Intro Page
 
 3. RECOMMENDATIONS SECTION
 
+1) This section again contain the dish cards but some more cards in this section.
+2) This section is similar to the specialities section with the only added idea that I have added a search bar on the top of this section below the title and subtitle.
+3) This search bar have a simple magnify icon and one will be able to type anything on the bar.
 
 4. REVIEWS SECTION
 
