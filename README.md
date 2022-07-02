@@ -47,6 +47,10 @@ b. Intro Page
 2) This section is similar to the specialities section with the only added idea that I have added a search bar on the top of this section below the title and subtitle.
 3) This search bar have a simple magnify icon and one will be able to type anything on the bar.
 
+![image](https://user-images.githubusercontent.com/84274467/176995456-dbf10741-be4a-4e47-a5b7-68abd248646e.png)
+
+
+
 4. REVIEWS SECTION
 
 
