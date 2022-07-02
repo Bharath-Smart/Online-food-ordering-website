@@ -49,9 +49,25 @@ b. Intro Page
 
 ![image](https://user-images.githubusercontent.com/84274467/176995456-dbf10741-be4a-4e47-a5b7-68abd248646e.png)
 
+![image](https://user-images.githubusercontent.com/84274467/176996400-27b4b5e9-6c33-4ca8-9fb3-cf147127dcf8.png)
 
 
 4. REVIEWS SECTION
 
+1) This section have 2 parts of the page. The first part contains cards that have reviews of people for the restaurant. This card have an image of the person, their name, and their review.
+2) The second part contains a simple form asking for review which contains fields like name, email, and their review. Also, I added a submit button for the form. Again this form will not work (as there is no JS involved).
+
+![image](https://user-images.githubusercontent.com/84274467/176996524-6d2e7a4a-3448-4df5-acde-54decaf50f21.png)
+
 
 5. FOOTER
+
+1) The footer contain social media links. Here I have used icons to the social media links, such that clicking on the icons will redirect you to the link.
+2) Here I also added demo links like terms and conditions, Privacy policy, Copyright information, etc in the footer section.
+3) The links will open in a new tab.
+4) Also added a back-to-top button that navigates us smoothly to the top of the page.
+
+![image](https://user-images.githubusercontent.com/84274467/176996691-ddafe943-5670-47e6-a1c1-50a1737c2b91.png)
+
+# Link to the page
+https://bharath-smart.github.io/Online-food-ordering-website/
