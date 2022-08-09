@@ -163,17 +163,19 @@
         flex:1;
          
      }
-     .cover-page-div {
+          .cover-page-div {
        flex:1;
        margin-right:2%;
+       overflow: hidden;
      }
-     .cover-page-img {
+
+     .cover-page-div img{
        width:100%;
-       
+       display:block;
+       transition: all 0.4s;
      }
-     .cover-page-img:hover{
-        box-shadow:0 10px 20px rgba(0,0,0,.4);
-        transform:perspective(250px) translateZ(10px) ;
+     .cover-page-div img:hover{
+        transform:scale(1.1) ;
      }
      .btn:link,.btn:visited  {
          margin-top:50px;
